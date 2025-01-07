@@ -6,11 +6,11 @@
   "typings": "./dist/typings/main.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NeekSandhu/monaco-textmate"
+    "url": "https://github.com/relliv/monaco-textmate"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NeekSandhu/monaco-textmate/issues"
+    "url": "https://github.com/relliv/monaco-textmate/issues"
   },
   "scripts": {
     "watch": "tsc -watch",
